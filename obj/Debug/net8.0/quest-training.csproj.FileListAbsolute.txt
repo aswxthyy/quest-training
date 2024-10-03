@@ -1,0 +1,5 @@
+/Users/aswathy/Documents/GitHub/quest-training/obj/Debug/net8.0/quest-training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/obj/Debug/net8.0/quest-training.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/obj/Debug/net8.0/quest-training.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/obj/Debug/net8.0/quest-training.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/obj/Debug/net8.0/quest-training.sourcelink.json
