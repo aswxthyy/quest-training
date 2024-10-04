@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/bin/Debug/net8.0/StringOperations
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/bin/Debug/net8.0/StringOperations.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/bin/Debug/net8.0/StringOperations.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/bin/Debug/net8.0/StringOperations.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/bin/Debug/net8.0/StringOperations.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/refint/StringOperations.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/StringOperations.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day4/StringOperations/obj/Debug/net8.0/ref/StringOperations.dll
