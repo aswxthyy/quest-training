@@ -136,19 +136,19 @@ internal class Program
         */
         //----------------------------------
         
-        Console.Write("Enter a number : ");
-        var input = int.Parse(Console.ReadLine());
+        // Console.Write("Enter a number : ");
+        // var input = int.Parse(Console.ReadLine());
 
-        int num = 1;
+        // int num = 1;
 
-        for (int i = 1; i <= input; i++)
-        {
-            for (int j = 1; j <= i; j++)
-            {
-                Console.Write("{0,4}", num++); 
-            }
-            Console.WriteLine();
-        }
+        // for (int i = 1; i <= input; i++)
+        // {
+        //     for (int j = 1; j <= i; j++)
+        //     {
+        //         Console.Write("{0,4}", num++); 
+        //     }
+        //     Console.WriteLine();
+        // }
         
 
         // Console.Write("Enter a number : ");
@@ -164,7 +164,31 @@ internal class Program
         //     Console.WriteLine();
         // }
 
+        Console.Write("Enter a string : ");
+        var input = Console.ReadLine();
 
+        char[] vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
+        bool present = false;
+
+        foreach(var c in input)
+        {
+            foreach(var vowel in vowels)
+            {
+                if (c == vowel)
+                {
+                    present = true;
+                    Console.WriteLine(c); 
+                    break; 
+                }
+            }
+        }
+
+        if (!present)
+        {
+            Console.WriteLine("No vowels present");
+        }
+
+        
 
 
 
