@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/bin/Debug/net8.0/Lists
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/bin/Debug/net8.0/Lists.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/bin/Debug/net8.0/Lists.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/bin/Debug/net8.0/Lists.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/bin/Debug/net8.0/Lists.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/refint/Lists.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/Lists.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/Lists/obj/Debug/net8.0/ref/Lists.dll

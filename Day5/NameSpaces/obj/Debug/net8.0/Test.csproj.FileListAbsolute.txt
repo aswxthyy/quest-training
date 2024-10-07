@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/bin/Debug/net8.0/Test
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/bin/Debug/net8.0/Test.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/bin/Debug/net8.0/Test.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/bin/Debug/net8.0/Test.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/bin/Debug/net8.0/Test.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/refint/Test.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/Test.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/NameSpaces/obj/Debug/net8.0/ref/Test.dll

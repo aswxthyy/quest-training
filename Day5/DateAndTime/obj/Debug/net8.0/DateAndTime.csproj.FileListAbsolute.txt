@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/bin/Debug/net8.0/DateAndTime
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/bin/Debug/net8.0/DateAndTime.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/bin/Debug/net8.0/DateAndTime.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/bin/Debug/net8.0/DateAndTime.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/bin/Debug/net8.0/DateAndTime.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/refint/DateAndTime.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/DateAndTime.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day5/DateAndTime/obj/Debug/net8.0/ref/DateAndTime.dll
