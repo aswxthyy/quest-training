@@ -39,50 +39,6 @@ select min(class) as [min] from students;
 select max(class) as [max] from students;
 select avg(class) as [avg] from students;
 
-ASSIGNMENT :
-
-You are working on a database for a school’s student
-management system. The system contains a table named 
-courses that stores information about the courses offered 
-at the school and the students enrolled in them.
- 
-You have been tasked to generate a report that shows the following information for each course:
-1. The total number of students enrolled.
-2. The total fees collected for each course. 
-3. The course with the maximum number of enrolments.
-
-Write SQL queries to accomplish the following tasks:
-1. Find the total number of students enrolled in each course:
-    * The result should display the course_name and the total count of students enrolled in that course.
-2. Calculate the total fees collected for each course:
-    * The result should display the course_name and the sum of the course_fee collected.
-3. Determine the course with the maximum number of enrolments:
-    * Display the course_name and the number of students enrolled for the course with the highest enrolment
-
-ANSWERS :
-
-create table COURSES(
-  ID int primary key identity,
-  NAME varchar(10) not null,
-  FEES int not null,
-  COURSE varchar(30) not null,
-);
-
-insert into COURSES(name, fees, course) values
-('Alpha', 10000, 'C#'),
-('Beta', 10500, 'Java'),
-('Gamma', 10500, 'Java'),
-('Delta', 10000, 'C#'),
-('Epsilon', 8000, 'Python'),
-('Eeta', 8000, 'Python'),
-('Theta', 10000, 'C#'),
-('Zeta', 12000, 'Ruby');
-
-
-select count(course) as TOTAL_STUDENTS, course as [COURSE] from courses group by course;
-select sum(fees) as TOTAL_FEES, course as [COURSE] from courses group by course;
-select top 1 course as [MAX_ENROLLED_COURSE] from courses order by course;
-select top 1 course,count(id) as [MAX_ENROLLED_COURSE] FROM courses GROUP BY course ORDER BY count(id) DESC;
 
 -------------------------------------------------------
 
