@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/bin/Debug/net8.0/Inventory
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/bin/Debug/net8.0/Inventory.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/bin/Debug/net8.0/Inventory.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/bin/Debug/net8.0/Inventory.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/bin/Debug/net8.0/Inventory.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/refint/Inventory.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/Inventory.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day9/Inventory/obj/Debug/net8.0/ref/Inventory.dll
