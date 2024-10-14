@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/bin/Debug/net8.0/Patient
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/bin/Debug/net8.0/Patient.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/bin/Debug/net8.0/Patient.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/bin/Debug/net8.0/Patient.dll
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/bin/Debug/net8.0/Patient.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.dll
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/refint/Patient.dll
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/Patient.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Group1/Patient/obj/Debug/net8.0/ref/Patient.dll
