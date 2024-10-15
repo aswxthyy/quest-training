@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/bin/Debug/net8.0/OOPS
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/bin/Debug/net8.0/OOPS.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/bin/Debug/net8.0/OOPS.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/bin/Debug/net8.0/OOPS.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/bin/Debug/net8.0/OOPS.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/refint/OOPS.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/OOPS.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day11/OOPS/obj/Debug/net8.0/ref/OOPS.dll
