@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/bin/Debug/net8.0/GetSet
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/bin/Debug/net8.0/GetSet.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/bin/Debug/net8.0/GetSet.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/bin/Debug/net8.0/GetSet.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/bin/Debug/net8.0/GetSet.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/refint/GetSet.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/GetSet.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/GetSet/obj/Debug/net8.0/ref/GetSet.dll

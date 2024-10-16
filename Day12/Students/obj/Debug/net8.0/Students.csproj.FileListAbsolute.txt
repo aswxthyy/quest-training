@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/bin/Debug/net8.0/Students
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/bin/Debug/net8.0/Students.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/bin/Debug/net8.0/Students.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/bin/Debug/net8.0/Students.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/bin/Debug/net8.0/Students.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/refint/Students.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/Students.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Students/obj/Debug/net8.0/ref/Students.dll

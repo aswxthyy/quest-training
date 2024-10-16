@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day12/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
