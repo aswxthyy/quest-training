@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/bin/Debug/net8.0/enum
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/bin/Debug/net8.0/enum.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/bin/Debug/net8.0/enum.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/bin/Debug/net8.0/enum.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/bin/Debug/net8.0/enum.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/refint/enum.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/enum.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/ENUM/obj/Debug/net8.0/ref/enum.dll

@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/bin/Debug/net8.0/EmployeeManagementApp
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/bin/Debug/net8.0/EmployeeManagementApp.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/bin/Debug/net8.0/EmployeeManagementApp.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/bin/Debug/net8.0/EmployeeManagementApp.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/bin/Debug/net8.0/EmployeeManagementApp.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/refint/EmployeeManagementApp.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/EmployeeManagementApp.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day13/EmployeeManagementApp/obj/Debug/net8.0/ref/EmployeeManagementApp.dll
