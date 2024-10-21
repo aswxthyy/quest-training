@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/bin/Debug/net8.0/ListJoins
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/bin/Debug/net8.0/ListJoins.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/bin/Debug/net8.0/ListJoins.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/bin/Debug/net8.0/ListJoins.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/bin/Debug/net8.0/ListJoins.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/refint/ListJoins.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ListJoins.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/ListJoins/obj/Debug/net8.0/ref/ListJoins.dll

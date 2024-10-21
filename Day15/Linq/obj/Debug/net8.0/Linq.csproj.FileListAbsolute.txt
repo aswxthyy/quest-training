@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/bin/Debug/net8.0/Linq
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/bin/Debug/net8.0/Linq.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/bin/Debug/net8.0/Linq.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/bin/Debug/net8.0/Linq.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/bin/Debug/net8.0/Linq.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/refint/Linq.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/Linq.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day15/Linq/obj/Debug/net8.0/ref/Linq.dll
