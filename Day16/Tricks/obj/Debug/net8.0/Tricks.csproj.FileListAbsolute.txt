@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/bin/Debug/net8.0/Tricks
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/bin/Debug/net8.0/Tricks.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/bin/Debug/net8.0/Tricks.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/bin/Debug/net8.0/Tricks.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/bin/Debug/net8.0/Tricks.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/refint/Tricks.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/Tricks.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Tricks/obj/Debug/net8.0/ref/Tricks.dll

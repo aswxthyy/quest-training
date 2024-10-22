@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/bin/Debug/net8.0/Shapes
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/bin/Debug/net8.0/Shapes.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/bin/Debug/net8.0/Shapes.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/bin/Debug/net8.0/Shapes.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/bin/Debug/net8.0/Shapes.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/refint/Shapes.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/Shapes.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day16/Shapes/obj/Debug/net8.0/ref/Shapes.dll
