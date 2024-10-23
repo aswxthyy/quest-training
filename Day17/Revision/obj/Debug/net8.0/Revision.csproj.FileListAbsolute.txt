@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/bin/Debug/net8.0/Revision
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/bin/Debug/net8.0/Revision.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/bin/Debug/net8.0/Revision.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/bin/Debug/net8.0/Revision.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/bin/Debug/net8.0/Revision.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/refint/Revision.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/Revision.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Revision/obj/Debug/net8.0/ref/Revision.dll

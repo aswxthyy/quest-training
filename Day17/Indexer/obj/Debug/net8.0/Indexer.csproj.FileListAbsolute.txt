@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/bin/Debug/net8.0/Indexer
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/bin/Debug/net8.0/Indexer.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/bin/Debug/net8.0/Indexer.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/bin/Debug/net8.0/Indexer.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/bin/Debug/net8.0/Indexer.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/refint/Indexer.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/Indexer.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day17/Indexer/obj/Debug/net8.0/ref/Indexer.dll

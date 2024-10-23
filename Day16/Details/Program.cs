@@ -1,168 +1,168 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Details
+namespace Day15newcontact
 {
-    internal class Program
+    public class Contact
     {
-        public static Dictionary<string, object> personalDetails = new Dictionary<string, object>();
+        public int ContactID { get; set; }
+        public string Name { get; set; }
+        public string Phone { get; set; }
+        public string Email { get; set; }
+    }
 
-        static void AddPerson()
+    public class ContactRepository
+    {
+        private string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Dell\\Documents\\Questdb.mdf;Integrated Security=True;";
+
+        public ContactRepository()
         {
+            CreateContactsTable();
+        }
 
-            Console.Write("Name : ");
-            personalDetails.Add("Name", Console.ReadLine());
+        private void CreateContactsTable()
+        {
+            string createTableQuery = @"
+            IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Contacts' AND xtype='U')
+            CREATE TABLE Contacts (
+                ContactID INT PRIMARY KEY IDENTITY(1,1),
+                Name VARCHAR(100) NOT NULL,
+                Phone VARCHAR(20) NOT NULL,
+                Email VARCHAR(100) NULL
+            );";
 
-            Console.Write("Phone Number : ");
-            personalDetails.Add("PhNo" : Console.ReadLine());
+            SqlConnection connection = new SqlConnection(connStr);
+            SqlCommand command = new SqlCommand(createTableQuery, connection);
 
-            Console.Write("Email : ");
-            personalDetails.Add("Email", Console.ReadLine());
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
 
-        
-            System.Console.WriteLine("Personal Details added successful");
-                
+            command.ExecuteNonQuery();
+
+        }
+
+        public void AddContact(Contact contact)
+        {
+            string query = "INSERT INTO Contacts (Name, Phone, Email) VALUES (@Name, @Phone, @Email)";
+            using (SqlConnection connection = new SqlConnection(connStr))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Name", contact.Name);
+                command.Parameters.AddWithValue("@Phone", contact.Phone);
+                command.Parameters.AddWithValue("@Email", contact.Email ?? (object)DBNull.Value);
+
+                if (connection.State == System.Data.ConnectionState.Closed)
+                {
+                    connection.Open();
+                }
+
+                command.ExecuteNonQuery();
+            }
+        }
+
+        public Contact SearchByNameOrPhone(string input)
+        {
+            string query = "SELECT * FROM Contacts WHERE Name = @Input OR Phone = @Input";
+            using (SqlConnection connection = new SqlConnection(connStr))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Input", input);
+
+                if (connection.State == System.Data.ConnectionState.Closed)
+                {
+                    connection.Open();
+                }
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return new Contact
+                        {
+                            ContactID = reader.GetInt32(0),
+                            Name = reader.GetString(1),
+                            Phone = reader.GetString(2),
+                            Email = reader.IsDBNull(3) ? null : reader.GetString(3)
+                        };
+                    }
+                }
+            }
+            return null;
+        }
+
+        public void UpdateContact(Contact contact)
+        {
+            string query = "UPDATE Contacts SET Name = @Name, Phone = @Phone, Email = @Email WHERE ContactID = @ContactID";
+            using (SqlConnection connection = new SqlConnection(connStr))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Name", contact.Name);
+                command.Parameters.AddWithValue("@Phone", contact.Phone);
+                command.Parameters.AddWithValue("@Email", contact.Email ?? (object)DBNull.Value);
+                command.Parameters.AddWithValue("@ContactID", contact.ContactID);
+
+                if (connection.State == System.Data.ConnectionState.Closed)
+                {
+                    connection.Open();
+                }
+
+                command.ExecuteNonQuery();
+            }
+        }
+
+        public void DeleteContact(int contactID)
+        {
+            string query = "DELETE FROM Contacts WHERE ContactID = @ContactID";
+            using (SqlConnection connection = new SqlConnection(connStr))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@ContactID", contactID);
+
+                if (connection.State == System.Data.ConnectionState.Closed)
+                {
+                    connection.Open();
+                }
+
+                command.ExecuteNonQuery();
+            }
         }
     }
 
-        static void SearchPatient()
-        {
-            Console.Write("Enter Patient ID to Search : ");
-            string searchID = Console.ReadLine();
-
-            if (patients.ContainsKey(searchID))
-            {
-                var patient = personals[searchID];
-                System.Console.WriteLine($"Name : {personal["Name"]}");
-                System.Console.WriteLine($"Age : {patient["Age"]}");
-                System.Console.WriteLine($"Diagnosis : {patient["Diagnosis"]}");
-                System.Console.WriteLine($"Admission Status: {patient["AdmissionStatus"]}");
-            }
-            else
-            {
-                System.Console.WriteLine("Patient doesn't exist");
-            }
-        }
-
-        static void UpdatePatient()
-        {
-            Console.Write("Enter Patient ID : ");
-            string updateID = Console.ReadLine();
-
-            if (patients.ContainsKey(updateID))
-            {
-                var patient = patients[updateID];
-
-                Console.Write("Updated Diagnosis or (N/A) : ");
-                string updatedDiag = Console.ReadLine();
-
-                if (updatedDiag != "N/A")
-                {
-                    patient["Diagnosis"] = updatedDiag;
-                }
-
-                System.Console.WriteLine("Update Admission Status or (N/A) : ");
-                System.Console.WriteLine("1. Admitted   2. Not Admitted    3. Discharged");
-                string updatedAdmsn = Console.ReadLine();
-
-                switch (updatedAdmsn)
-                {
-                    case "1":
-                    {
-                        patient["AdmissionStatus"] = "Admitted";
-                        break;
-                    }
-                    case "2":
-                    {
-                        patient["AdmissionStatus"] = "Not Admitted";
-                        break;
-                    }
-                    case "3":
-                    {
-                        patient["AdmissionStatus"] = "Discharged";
-                        break;
-                    }
-                    case "N/A":
-                    {
-                        return; 
-                    }
-                    default:
-                    {
-                        System.Console.WriteLine("Enter a valid input");
-                        break;
-                    }
-                }
-
-                System.Console.WriteLine("Patient updation successful");
-            }
-            else
-            {
-                System.Console.WriteLine("Patient doesn't exist");
-            }
-        }
-
-        static void AdmittedPatients()
-        {
-            System.Console.WriteLine("Admitted Patients :");
-            foreach (var patient in patients)
-            {
-                if (patient.Value["AdmissionStatus"].ToString() == "Admitted")
-                {
-                    System.Console.WriteLine("Name : " + patient.Value["Name"]);
-                    System.Console.WriteLine("Age : " + patient.Value["Age"]);
-                    System.Console.WriteLine("Diagnosis : " + patient.Value["Diagnosis"]);
-                }
-            }
-        }
-
+    class Program
+    {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                System.Console.WriteLine("1. Add Patient");
-                System.Console.WriteLine("2. Search Patient");
-                System.Console.WriteLine("3. Update Patient");
-                System.Console.WriteLine("4. Admitted Patients");
-                System.Console.WriteLine("5. Exit");
-                var opt = Console.ReadLine();
+            ContactRepository repository = new ContactRepository();
 
-                switch (opt)
-                {
-                    case "1":
-                    {
-                        AddPatient();
-                        break;
-                    }
-                    case "2":
-                    {
-                        SearchPatient();
-                        break;
-                    }
-                    case "3":
-                    {
-                        UpdatePatient();
-                        break;
-                    }   
-                    case "4":
-                    {
-                        AdmittedPatients();
-                        break;
-                    }
-                    case "5":
-                    {
-                        return;
-                    }
-                    default:
-                    {
-                        System.Console.WriteLine("Enter a valid option");
-                        break;
-                    }
-                }
+            repository.AddContact(new Contact { Name = "John Doe", Phone = "123456789", Email = "john@example.com" });
+
+            var contact = repository.SearchByNameOrPhone("John Doe");
+            if (contact != null)
+            {
+                Console.WriteLine($"Found: {contact.Name}, Phone: {contact.Phone}, Email: {contact.Email}");
+
+                contact.Name = "John Smith";
+                repository.UpdateContact(contact);
+                Console.WriteLine("Contact updated.");
+
+                repository.DeleteContact(contact.ContactID);
+                Console.WriteLine("Contact deleted.");
             }
+            else
+            {
+                Console.WriteLine("Contact not found.");
+            }
+
+            Console.ReadLine();
         }
     }
 }
-
 
 
 /*
