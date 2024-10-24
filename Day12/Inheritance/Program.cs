@@ -1,35 +1,35 @@
 ﻿namespace Program
 {
-    // class A
-    // {
-    //     public string DataA { get; set; }
-    //     public void MethodA() => System.Console.WriteLine("Method of A");
-    // }
-    // class B : A
-    // {
-    //     public string DataB { get; set; }
-    //     public void MethodA()
-    //     {
-    //         base.MethodA(); //in Java it's super.MethodA();
-    //         System.Console.WriteLine("This is also method A");
-    //     }
-    //     public void MethodB() => System.Console.WriteLine("Method of B");
-    // }
+    class A
+    {
+        public string DataA { get; set; }
+        public void MethodA() => System.Console.WriteLine("Method of A");
+    }
+    class B : A
+    {
+        public string DataB { get; set; }
+        public void MethodA()
+        {
+            base.MethodA(); //in Java it's super.MethodA();
+            System.Console.WriteLine("This is also method A");
+        }
+        public void MethodB() => System.Console.WriteLine("Method of B");
+    }
 
 
-    // internal class Program
-    // {
-    //     static void Main(string[] args)
-    //     {
-    //         A a = new A();
-    //         a.MethodA();
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            A a = new A();
+            a.MethodA();
 
-    //         B b = new B();
-    //         b.MethodB();
-    //         b.MethodA();
-    //     }
+            B b = new B();
+            b.MethodB();
+            b.MethodA();
+        }
     
-    // }
+    }
 
     class Student
     {
