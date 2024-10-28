@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day20/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll

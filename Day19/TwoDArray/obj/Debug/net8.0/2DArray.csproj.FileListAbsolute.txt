@@ -1,0 +1,15 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.sourcelink.json
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/bin/Debug/net8.0/2DArray
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/bin/Debug/net8.0/2DArray.deps.json
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/bin/Debug/net8.0/2DArray.runtimeconfig.json
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/bin/Debug/net8.0/2DArray.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/bin/Debug/net8.0/2DArray.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/refint/2DArray.dll
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.pdb
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/2DArray.genruntimeconfig.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day19/TwoDArray/obj/Debug/net8.0/ref/2DArray.dll

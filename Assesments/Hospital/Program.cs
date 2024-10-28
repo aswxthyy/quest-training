@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
+
 namespace Hospital
 {
     internal class Program
@@ -10,6 +11,11 @@ namespace Hospital
         var doctor  = new DoctorRepository();
         static void Main(string[] args)
         {
+            // var d = new Doctor[10];
+            // foreach(var item in d)
+            // {
+            //     System.Console.WriteLine(item.Name);
+            // }
             while (true)
             {
                 System.Console.WriteLine("Welcome! Choose an option to manage");

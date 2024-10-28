@@ -7,5 +7,6 @@ namespace Hospital
          public void Select();
          public void Update();
          public void Delete();
+        
     }
 }
