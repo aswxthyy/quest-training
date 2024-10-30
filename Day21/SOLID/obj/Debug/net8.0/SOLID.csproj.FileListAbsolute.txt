@@ -1,0 +1,5 @@
+/Users/aswathy/Documents/GitHub/quest-training/Day21/SOLID/obj/Debug/net8.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathy/Documents/GitHub/quest-training/Day21/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfoInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day21/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfo.cs
+/Users/aswathy/Documents/GitHub/quest-training/Day21/SOLID/obj/Debug/net8.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/aswathy/Documents/GitHub/quest-training/Day21/SOLID/obj/Debug/net8.0/SOLID.sourcelink.json
